@@ -1,0 +1,11 @@
+{
+    "success":true,
+    "data":{
+        "artDetail":{
+            "id":"1",
+            "title":"标题",
+            "content":"内容1"
+        }
+        
+    }
+}
